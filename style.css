@@ -1,0 +1,10 @@
+.block{
+    display: inline-block;
+    background-color: blue;
+    width:50%;
+    margin-right: -4px;
+}
+
+img {
+    width: 200px;
+}
